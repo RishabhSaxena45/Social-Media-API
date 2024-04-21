@@ -10,3 +10,5 @@ Social Media API
 8. ![Screenshot (423)](https://github.com/RishabhSaxena45/Social-Media-API/assets/136158506/2f02e570-0e05-4d38-a63c-848da16f872b)
 9. Result of Search Function
 10. ![Screenshot (424)](https://github.com/RishabhSaxena45/Social-Media-API/assets/136158506/2934a2bc-a73e-4b0c-b619-5344fc58d8be)
+11. Friend Request API
+12. ![Screenshot (425)](https://github.com/RishabhSaxena45/Social-Media-API/assets/136158506/db73d17e-d3ed-4aad-936b-12ee1305fc73)
