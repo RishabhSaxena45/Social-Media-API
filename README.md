@@ -12,3 +12,5 @@ Social Media API
 10. ![Screenshot (424)](https://github.com/RishabhSaxena45/Social-Media-API/assets/136158506/2934a2bc-a73e-4b0c-b619-5344fc58d8be)
 11. Friend Request API
 12. ![Screenshot (425)](https://github.com/RishabhSaxena45/Social-Media-API/assets/136158506/db73d17e-d3ed-4aad-936b-12ee1305fc73)
+13. Friend List API with add , update and delete functions
+14. ![Screenshot (428)](https://github.com/RishabhSaxena45/Social-Media-API/assets/136158506/1e5ce972-bd83-46e9-823e-0417914f7635)
